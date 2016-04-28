@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://183.56.163.107:8080/resources/site/images/footer-logo.png</string>
+					<string>http://183.56.163.107:8080/resources/site/images/logo-120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://183.56.163.107:8080/resources/site/images/footer-logo.png</string>
+					<string>http://183.56.163.107:8080/resources/site/images/logo-120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
